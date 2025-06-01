@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href="Item.css"?>
+<ItemDetails>
+  <Item ID="1">
+    <ItemName>Mouse</ItemName>
+    <ItemPrice>150</ItemPrice>
+    <Quantity>15</Quantity>
+  </Item>
+  <Item ID="2">
+    <ItemName>Monitor</ItemName>
+    <ItemPrice>2500</ItemPrice>
+    <Quantity>15</Quantity>
+  </Item>
+  <Item ID="3">
+    <ItemName>Keyboard</ItemName>
+    <ItemPrice>550</ItemPrice>
+    <Quantity>15</Quantity>
+  </Item>
+  <Item ID="4">
+    <ItemName>ScreenGuard</ItemName>
+    <ItemPrice>1150</ItemPrice>
+    <Quantity>15</Quantity>
+  </Item>
+  <Item ID="5">
+    <ItemName>KeyGuard</ItemName>
+    <ItemPrice>850</ItemPrice>
+    <Quantity>15</Quantity>
+  </Item>
+</ItemDetails>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MovieInfo>
+  <m1>
+    <MovieNo>1</MovieNo>
+    <MovieTitle>Bajrangi Bhaijaan</MovieTitle>
+    <ActorName>Salman Khan</ActorName>
+    <ReleaseYear>2015</ReleaseYear>
+  </m1>
+  <m2>
+    <MovieNo>2</MovieNo>
+    <MovieTitle>3 Idiots</MovieTitle>
+    <ActorName>Aamir Khan</ActorName>
+    <ReleaseYear>2009</ReleaseYear>
+  </m2>
+  <m3>
+    <MovieNo>3</MovieNo>
+    <MovieTitle>Baahubali:The Beginning</MovieTitle>
+    <ActorName>Prabhas</ActorName>
+    <ReleaseYear>2015</ReleaseYear>
+  </m3>
+  <m4>
+    <MovieNo>4</MovieNo>
+    <MovieTitle>Krrish 3</MovieTitle>
+    <ActorName>Hrithik Roshan</ActorName>
+    <ReleaseYear>2013</ReleaseYear>
+  </m4>
+  <m5>
+    <MovieNo>5</MovieNo>
+    <MovieTitle>Robot</MovieTitle>
+    <ActorName>Rajinikanth</ActorName>
+    <ReleaseYear>2010</ReleaseYear>
+  </m5>
+</MovieInfo>

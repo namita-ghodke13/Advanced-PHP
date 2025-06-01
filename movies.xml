@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MovieCDStore>
+ <Classical>
+   <MovieTitle>Sholay</MovieTitle>
+   <Actorname>Amitabh Bachchan</Actorname>
+   <ReleaseYear>1975</ReleaseYear>
+ </Classical>
+ <Horror>
+   <MovieTitle>1920 London</MovieTitle>
+   <Actorname>Sharman Joshi</Actorname>
+   <ReleaseYear>2016</ReleaseYear>
+ </Horror>
+ <Action>
+   <MovieTitle>Singham</MovieTitle>
+   <Actorname>Ajay Devgan</Actorname>
+   <ReleaseYear>2011</ReleaseYear>
+ </Action>
+</MovieCDStore>
